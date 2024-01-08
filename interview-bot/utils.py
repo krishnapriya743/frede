@@ -1,7 +1,7 @@
 import openai
 import re
 from typing import List
-openai.api_key = 'openai.api_key = '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'  
+#openai.api_key = 'openai.api_key = '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'  
 # Commented out the openai.api_key line if you don't want to set the API key here
 
 from openai.error import InvalidRequestError
