@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_chat import message
 from utils import get_completion, get_questions
 from config import Parameters
-
+openai.api_key = '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'
 class InterviewBot:
     """
     Class representing the Interview chatbot.
